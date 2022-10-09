@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gell987
-- 👀 I’m interested in gaming and python
+- 👋 Hi, I’m Hassam farhan
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on gaming and python
-- 📫 How to reach me my discord is gell987#0001
+- 💞️ I’m looking to collaborate on coding/programming stuff
+- 📫 How to reach me my discord is gell987#7187
 
 <!---
 gell987/gell987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
