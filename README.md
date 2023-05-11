@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning next,js
 - 🌱i'm certified python programmer
 - 💞️ I’m looking to collaborate on coding/programming stuff
-- 📫 How to reach me my discord is gell987#7187
+- 📫 How to reach me my discord is gell987#0962
 
 <!---
 gell987/gell987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
