@@ -4,6 +4,7 @@
   
   ![Coding animation](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
   
+  [![Discord](https://img.shields.io/badge/Find_me_on_Discord-beller987-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
   
 </div>
 
