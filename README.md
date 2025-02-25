@@ -55,7 +55,7 @@ const hassamsBrain = {
 
 ## Let's build something cool! 🚀
 
-Got an interesting project idea? Looking for a developer who communicates clearly and delivers? Hit me up on Discord (`gell987#0962`)! I'm ready to collaborate on:
+Got an interesting project idea? Looking for a developer who communicates clearly and delivers? Hit me up on Discord (`beller987`)! I'm ready to collaborate on:
 
 - Innovative web applications
 - Efficient backend systems
