@@ -1,73 +1,211 @@
-# Hey! I'm Hassam 👋
-
 <div align="center">
-  
-  ![Coding animation](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-  
-  [![Discord](https://img.shields.io/badge/Find_me_on_Discord-beller987-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
-  
+
+```
+██╗  ██╗ █████╗ ███████╗███████╗ █████╗ ███╗   ███╗
+██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗████╗ ████║
+███████║███████║███████╗███████╗███████║██╔████╔██║
+██╔══██║██╔══██║╚════██║╚════██║██╔══██║██║╚██╔╝██║
+██║  ██║██║  ██║███████║███████║██║  ██║██║ ╚═╝ ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Writing+code+since+2019.+Mass+execution+since+2021.;Systems+architect.+Pattern+recognizer.+Builder." alt="Typing SVG" />
+
 </div>
 
-## So who am I anyway? 🤔
+<br>
 
-I build awesome websites and apps that people actually want to use. Full stack developer with a knack for solving tricky problems and making tech that just works. I get excited about new frameworks but also appreciate the tried-and-true tools that get the job done right.
+## Philosophy
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVwYm9wazVxdHd3MXh2MTlmYW40bzBkc2FnZ2xtNWs2bmM5OWZuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+I believe software exists to compress time. Every application I build carries the same question: *what friction can this eliminate?* I started writing code at ten. By fourteen, I was shipping production systems for companies. Now at seventeen, I architect applications that handle concurrent users, process financial data in milliseconds, and synchronize state across distributed clients.
 
-## Stuff I code with 💻
+Age is a metric. Output is a measure. I prefer the latter.
 
-- **Backend**: Node.js/Express (rock-solid foundation) and Python (certified expertise!)
-- **Frontend**: React/Next.js (component magic), Vue & Svelte (smooth alternatives)
-- **Databases**: MongoDB, SQL, and AWS DynamoDB
-- **Cloud skills**: AWS suite - building scalable solutions that won't break the bank
-- **Specialized**: Algorithmic trading with MQL4/MQL5 - turning market data into profitable strategies
+<br>
 
-## Current brain obsessions 🧠
+## Chronicle
+
+```
+2019        First line of code written
+   │
+2021        Exiom Enterprises
+   │        Production systems. Enterprise clients. Real stakes.
+   │
+2022        CodeByte
+   │        Continued building. Continued learning.
+   │
+2023        Independent Development
+   │        ReadTogether. Chemistry Pro. The Nexus.
+   │        From concept to deployment, entirely self directed.
+   │
+2025        Present
+            Six years of accumulated knowledge.
+            Zero intention of slowing down.
+```
+
+<br>
+
+## Technical Doctrine
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Construction
+
+```python
+class TechnicalIdentity:
+    
+    languages = [
+        "TypeScript",
+        "JavaScript", 
+        "Python",
+        "SQL",
+        "MQL4",
+        "MQL5"
+    ]
+    
+    frontend = [
+        "Next.js",
+        "React",
+        "Svelte",
+        "Vue"
+    ]
+    
+    backend = [
+        "Node.js",
+        "Express",
+        "REST Architecture"
+    ]
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Infrastructure
+
+```python
+    databases = [
+        "MongoDB",
+        "PostgreSQL",
+        "DynamoDB"
+    ]
+    
+    cloud = [
+        "AWS Lambda",
+        "EC2",
+        "S3",
+        "Serverless Patterns"
+    ]
+    
+    domains = [
+        "Algorithmic Trading",
+        "Realtime Systems",
+        "Sentiment Analysis",
+        "Machine Learning"
+    ]
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Artifacts
+
+<details>
+<summary><b>ReadTogether</b></summary>
+<br>
+
+Synchronized PDF consumption for two participants. WebSocket orchestration maintains page parity in realtime. Cursor positions, annotations, and scroll states propagate instantaneously between clients.
+
+Built for couples. Built for study partners. Built because nothing else existed that worked properly.
+
+**Stack:** Next.js · WebSockets · State Synchronization
+
+</details>
+
+<details>
+<summary><b>Chemistry Pro</b></summary>
+<br>
+
+Periodic table reimagined as an information system rather than a static reference. Isotope configurations, spectroscopy data, electron orbital visualizations. The goal was to build what I wished existed when studying atomic structure.
+
+**Stack:** React · Scientific Data Modeling · Interactive Visualization
+
+</details>
+
+<details>
+<summary><b>The Nexus</b></summary>
+<br>
+
+Anonymous discourse platform for O Level students. Terminal aesthetic from the 1990s. Realtime interactions without identity permanence. A space for unfiltered academic discussion.
+
+**Stack:** Next.js · Realtime Messaging · Anonymization Layer
+
+</details>
+
+<details>
+<summary><b>Sentiment Intelligence System</b></summary>
+<br>
+
+Data collection architecture for Discord communications. Natural language processing extracts emotional vectors from conversational data. Pattern recognition across temporal windows reveals collective mood trajectories.
+
+**Stack:** Python · NLP · Data Pipeline Architecture
+
+</details>
+
+<br>
+
+## Current Vectors
 
 ```javascript
-const hassamsBrain = {
-  currentlyLearning: ["Rust (loving the performance)", "Go (perfect for microservices)"],
-  passions: ["Clean, efficient code", "Solving real-world problems"],
-  talents: ["Intuitive debugging", "Breaking down complex logics"]
+const trajectory = {
+    
+    acquiring: [
+        "Rust",          // Memory control without compromise
+        "Go",            // Concurrency as first principle
+        "ML Pipelines"   // Pattern extraction at scale
+    ],
+    
+    exploring: [
+        "Quantitative Finance",
+        "High Frequency Systems",
+        "Distributed Computing"
+    ],
+    
+    building: "Something that doesn't exist yet"
+    
 };
 ```
 
-## The stats for nerds 📊
+<br>
+
+## Coordinates
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" />
-</div>
 
-## My skill breakdown - what I bring to the table
+Currently completing O Levels in Computer Science.
 
-<div align="center">
-  
-  ```mermaid
-  pie
-    title "My Development Focus"
-    "Frontend Wizardry" : 35
-    "Backend Architecture" : 50
-    "Cloud & DevOps" : 25
-    "Trading Algorithms" : 15
-  ```
-  
-</div>
+Predicted completion: 2025.
 
-## Let's build something cool! 🚀
+Then, whatever comes next.
 
-Got an interesting project idea? Looking for a developer who communicates clearly and delivers? Hit me up on Discord (`beller987`)! I'm ready to collaborate on:
+<br>
 
-- Innovative web applications
-- Efficient backend systems
-- Cloud-based solutions
-- Fintech and trading tools
-- Anything with an interesting challenge!
+```
+The interesting problems are never the obvious ones.
+I look for the gaps. The inefficiencies. The things people accept as unchangeable.
+Then I write code until they change.
+```
 
----
+<br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=beller987&color=blueviolet&style=flat-square" alt="Profile visitor count">
-  
-  ### "The best code is the code that works and makes users happy"
-  #### (and ideally doesn't need comments to understand 😉)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gell987&theme=transparent&hide_border=true&ring=9CA3AF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=9CA3AF&dates=4B5563)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
+
 </div>
