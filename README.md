@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+```text
 ██╗  ██╗ █████╗ ███████╗███████╗ █████╗ ███╗   ███╗
 ██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗████╗ ████║
 ███████║███████║███████╗███████╗███████║██╔████╔██║
@@ -9,101 +9,144 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Writing+code+since+2019.+Mass+execution+since+2021.;Systems+architect.+Pattern+recognizer.+Builder." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=650&lines=Building+software+since+2019.;Full-stack+systems.+Realtime+infrastructure.+Applied+AI.;I+build+things+that+remove+friction." alt="Typing SVG" />
 
 </div>
 
 <br>
 
-## Philosophy
+## About
 
-I believe software exists to compress time. Every application I build carries the same question: *what friction can this eliminate?* I started writing code at ten. By fourteen, I was shipping production systems for companies. Now at seventeen, I architect applications that handle concurrent users, process financial data in milliseconds, and synchronize state across distributed clients.
+I build software around a simple idea:
 
-Age is a metric. Output is a measure. I prefer the latter.
+> **Good systems should make complicated things feel simple.**
 
-<br>
+I started programming in 2019 and moved quickly from experimenting with code to building complete applications, production systems, realtime platforms, data pipelines, and financial software.
 
-## Chronicle
+Most of my work sits somewhere between **full-stack engineering, system architecture, realtime infrastructure, automation, and applied machine learning**.
 
-```
-2019        First line of code written
-   │
-2021        Exiom Enterprises
-   │        Production systems. Enterprise clients. Real stakes.
-   │
-2022        CodeByte
-   │        Continued building. Continued learning.
-   │
-2023        Independent Development
-   │        ReadTogether. Chemistry Pro. The Nexus.
-   │        From concept to deployment, entirely self directed.
-   │
-2025        Present
-            Six years of accumulated knowledge.
-            Zero intention of slowing down.
-```
+I care less about how much code a system contains and more about what that code accomplishes.
+
+Reliable infrastructure. Fast interfaces. Clear abstractions. Fewer unnecessary steps.
+
+Software, at its best, compresses time.
 
 <br>
 
-## Technical Doctrine
+## Timeline
+
+```text
+2019
+│
+├── Started programming
+│
+2021
+│
+├── Exiom Enterprises
+│   └── Production development and client-facing systems
+│
+2022
+│
+├── CodeByte
+│   └── Continued working across full-stack development
+│
+2023
+│
+├── Independent Development
+│   ├── ReadTogether
+│   ├── Chemistry Pro
+│   └── The Nexus
+│
+2024 — 2026
+│
+├── Realtime applications
+├── Financial systems
+├── Data engineering
+├── Algorithmic trading
+├── Applied machine learning
+└── System architecture
+```
+
+<br>
+
+## Engineering Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Construction
+### Languages
 
 ```python
-class TechnicalIdentity:
-    
-    languages = [
-        "TypeScript",
-        "JavaScript", 
-        "Python",
-        "SQL",
-        "MQL4",
-        "MQL5"
-    ]
-    
-    frontend = [
-        "Next.js",
-        "React",
-        "Svelte",
-        "Vue"
-    ]
-    
-    backend = [
-        "Node.js",
-        "Express",
-        "REST Architecture"
-    ]
+languages = [
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "SQL",
+    "MQL4",
+    "MQL5",
+]
+```
+
+### Frontend
+
+```python
+frontend = [
+    "Next.js",
+    "React",
+    "Svelte",
+    "Vue",
+]
+```
+
+### Backend
+
+```python
+backend = [
+    "Node.js",
+    "Express",
+    "REST APIs",
+    "WebSockets",
+    "Realtime Systems",
+]
 ```
 
 </td>
+
 <td width="50%" valign="top">
+
+### Data
+
+```python
+databases = [
+    "PostgreSQL",
+    "MongoDB",
+    "DynamoDB",
+]
+```
 
 ### Infrastructure
 
 ```python
-    databases = [
-        "MongoDB",
-        "PostgreSQL",
-        "DynamoDB"
-    ]
-    
-    cloud = [
-        "AWS Lambda",
-        "EC2",
-        "S3",
-        "Serverless Patterns"
-    ]
-    
-    domains = [
-        "Algorithmic Trading",
-        "Realtime Systems",
-        "Sentiment Analysis",
-        "Machine Learning"
-    ]
+infrastructure = [
+    "AWS Lambda",
+    "EC2",
+    "S3",
+    "Serverless Architecture",
+]
+```
+
+### Domains
+
+```python
+domains = [
+    "Distributed Systems",
+    "Algorithmic Trading",
+    "Realtime Synchronization",
+    "Natural Language Processing",
+    "Machine Learning",
+    "Financial Systems",
+]
 ```
 
 </td>
@@ -112,92 +155,192 @@ class TechnicalIdentity:
 
 <br>
 
-## Artifacts
+## Selected Projects
 
 <details>
-<summary><b>ReadTogether</b></summary>
+<summary><b>ReadTogether</b> — synchronized reading infrastructure</summary>
+
 <br>
 
-Synchronized PDF consumption for two participants. WebSocket orchestration maintains page parity in realtime. Cursor positions, annotations, and scroll states propagate instantaneously between clients.
+A realtime collaborative PDF reading platform designed for two people reading the same document remotely.
 
-Built for couples. Built for study partners. Built because nothing else existed that worked properly.
+The system synchronizes document position and session state between connected clients so both participants remain on the same page without manually coordinating their progress.
 
-**Stack:** Next.js · WebSockets · State Synchronization
+### Core ideas
+
+- Realtime state synchronization
+- Persistent reading sessions
+- Low-latency client updates
+- Shared document navigation
+- Collaborative reading workflows
+
+**Stack:** Next.js · WebSockets · Realtime State Management
 
 </details>
 
 <details>
-<summary><b>Chemistry Pro</b></summary>
+<summary><b>Chemistry Pro</b> — interactive scientific reference system</summary>
+
 <br>
 
-Periodic table reimagined as an information system rather than a static reference. Isotope configurations, spectroscopy data, electron orbital visualizations. The goal was to build what I wished existed when studying atomic structure.
+An interactive chemistry platform built around the idea that a periodic table should be more than a grid of symbols.
+
+Chemistry Pro combines structured elemental information with deeper scientific data including isotopes, electronic configurations, spectroscopy information, and atomic structure.
+
+The project began with a simple question:
+
+> What would the periodic table look like if it were designed as software instead of a poster?
 
 **Stack:** React · Scientific Data Modeling · Interactive Visualization
 
 </details>
 
 <details>
-<summary><b>The Nexus</b></summary>
+<summary><b>The Nexus</b> — anonymous academic discussion platform</summary>
+
 <br>
 
-Anonymous discourse platform for O Level students. Terminal aesthetic from the 1990s. Realtime interactions without identity permanence. A space for unfiltered academic discussion.
+A realtime discussion system designed around anonymous communication between O Level students.
 
-**Stack:** Next.js · Realtime Messaging · Anonymization Layer
+The interface takes inspiration from early terminal systems while the underlying application handles modern realtime communication and temporary identity.
+
+### Design principles
+
+- Minimal identity persistence
+- Realtime discussion
+- Low-friction participation
+- Academic community focus
+- Deliberately minimal interface
+
+**Stack:** Next.js · Realtime Messaging · Anonymous Session Architecture
 
 </details>
 
 <details>
-<summary><b>Sentiment Intelligence System</b></summary>
+<summary><b>Sentiment Intelligence System</b> — conversational data analysis</summary>
+
 <br>
 
-Data collection architecture for Discord communications. Natural language processing extracts emotional vectors from conversational data. Pattern recognition across temporal windows reveals collective mood trajectories.
+A data pipeline for extracting behavioral and emotional patterns from large collections of conversational data.
 
-**Stack:** Python · NLP · Data Pipeline Architecture
+Messages are processed through an NLP pipeline, transformed into structured signals, and analyzed across time windows to identify changes in conversational sentiment and group behavior.
+
+### Pipeline
+
+```text
+Raw Messages
+     │
+     ▼
+Data Ingestion
+     │
+     ▼
+Normalization
+     │
+     ▼
+NLP Processing
+     │
+     ▼
+Sentiment Extraction
+     │
+     ▼
+Temporal Aggregation
+     │
+     ▼
+Pattern Analysis
+```
+
+**Stack:** Python · NLP · Data Pipelines · Statistical Analysis
 
 </details>
 
 <br>
 
-## Current Vectors
+## What I'm Exploring
 
 ```javascript
-const trajectory = {
-    
-    acquiring: [
-        "Rust",          // Memory control without compromise
-        "Go",            // Concurrency as first principle
-        "ML Pipelines"   // Pattern extraction at scale
+const currentFocus = {
+
+    learning: [
+        "Rust",
+        "Go",
+        "Machine Learning Infrastructure",
+        "Distributed Systems"
     ],
-    
-    exploring: [
+
+    researching: [
         "Quantitative Finance",
         "High Frequency Systems",
-        "Distributed Computing"
+        "Probabilistic Methods",
+        "Game Theory",
+        "Large Scale Data Processing"
     ],
-    
-    building: "Something that doesn't exist yet"
-    
+
+    interestedIn: [
+        "Systems that coordinate complex workflows",
+        "Software that removes unnecessary human effort",
+        "Infrastructure that remains simple under scale",
+        "Problems people have accepted as unsolvable"
+    ],
+
+    currentlyBuilding:
+        "Things I wish already existed"
+
 };
 ```
 
 <br>
 
-## Coordinates
+## How I Think About Engineering
 
-<div align="center">
+```text
+Understand the problem.
+        │
+        ▼
+Remove unnecessary complexity.
+        │
+        ▼
+Design the system.
+        │
+        ▼
+Build the smallest reliable version.
+        │
+        ▼
+Measure what breaks.
+        │
+        ▼
+Improve the architecture.
+        │
+        ▼
+Repeat.
+```
 
-Currently completing O Levels in Computer Science.
+I like problems involving many moving parts:
 
-Predicted completion: 2025.
+distributed state, realtime communication, financial data, automation, coordination, large datasets, and systems where architecture matters more than individual features.
 
-Then, whatever comes next.
+The most interesting engineering usually happens where several disciplines intersect.
 
 <br>
 
-```
-The interesting problems are never the obvious ones.
-I look for the gaps. The inefficiencies. The things people accept as unchangeable.
-Then I write code until they change.
+## Current Status
+
+<div align="center">
+
+Computer Science student.
+
+Building, studying, experimenting, and occasionally breaking things to understand why they worked in the first place.
+
+<br>
+
+```text
+I look for systems people have learned to tolerate.
+
+Slow processes.
+Disconnected tools.
+Repeated work.
+Missing infrastructure.
+
+Those gaps are usually where the interesting projects begin.
 ```
 
 <br>
